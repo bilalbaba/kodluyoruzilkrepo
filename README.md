@@ -26,6 +26,10 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen öce neyi d
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## Images
+
+![Ornek resim.](/image/ornek.png "This is an image for Kodluyoruz.")
+
 
 
 
