@@ -7,17 +7,17 @@ Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README do
 
 Öncelikle proje clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-'''
+```
 https://github.com/bilalbaba/kodluyoruzilkrepo.git
-'''
+```
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
-'''
+```
 cd kodluyoruzilkrepo
 code .
-'''
+```
 
 ## Contributing
 
