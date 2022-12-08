@@ -28,7 +28,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen öce neyi d
 
 ## Images
 
-![Ornek resim.](/image/ornek.png "This is an image for Kodluyoruz.")
+![Ornek resim.](ornek.png "This is an image for Kodluyoruz odevi.")
 
 
 
